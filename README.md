@@ -1,5 +1,5 @@
 # Edubridge-Data-Analytics
-### This repository contains all the Projects, Assignments, and Challenges of Data Analytics presented in the form of Jupyter Notebook and Ms Word.
+### This repository contains all the Projects, Assignments, and Challenges of Data Analytics presented in the form of Jupyter Notebook, Pdf and Ms Word.
 ## Tools
 ### Microsoft Excel, Python 3, R Programming
 ## Skills
