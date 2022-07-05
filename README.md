@@ -5,4 +5,5 @@
 ## Skills
 ### Microsoft Excel, Python 3, Data Visualisation, Statistical Analysis, R programming
 ## Projects
-[Drug Analysis](https://github.com/ShaimaAsharaf/Edubridge-Data-Analytics/tree/main/Final%20Project/Drug%20Analysis)
+### [Drug Analysis](https://github.com/ShaimaAsharaf/Edubridge-Data-Analytics/tree/main/Final%20Project/Drug%20Analysis)
+### [Heart Disease Analysis](https://github.com/ShaimaAsharaf/Edubridge-Data-Analytics/tree/main/Projects/Python/Heart%20Disease%20Analysis)
