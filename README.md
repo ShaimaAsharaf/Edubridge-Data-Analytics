@@ -4,4 +4,5 @@
 ### Microsoft Excel, Python 3, R Programming
 ## Skills
 ### Microsoft Excel, Python 3, Data Visualisation, Statistical Analysis, R programming
+## Projects
 [Drug Analysis](https://github.com/ShaimaAsharaf/Edubridge-Data-Analytics/tree/main/Final%20Project/Drug%20Analysis)
