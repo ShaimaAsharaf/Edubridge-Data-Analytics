@@ -7,3 +7,4 @@
 ## Projects
 ### [Drug Analysis](https://github.com/ShaimaAsharaf/Edubridge-Data-Analytics/tree/main/Final%20Project/Drug%20Analysis)
 ### [Heart Disease Analysis](https://github.com/ShaimaAsharaf/Edubridge-Data-Analytics/tree/main/Projects/Python/Heart%20Disease%20Analysis)
+### [IPL Analysis](https://github.com/ShaimaAsharaf/Edubridge-Data-Analytics/tree/main/Projects/Python/IPL%20Analysis)
